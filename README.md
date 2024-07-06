@@ -1,63 +1,46 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-  Привет, я Григорьев Иван!
-</h1>
+# 🧑‍💻 Григорьев Иван
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+## Fullstack Разработчик
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Negibkaya&style=flat-square&color=blue" alt=""/>
-</div>
+📍 Волгоград, Россия | ✉️ [grigona4@mail.com](mailto:grigona4@mail.com) | 📱 +7 (987) 649-43-36
 
-<h3 align="center">Fullstack Разработчик из Волгограда 🇷🇺</h3>
-
-<p align="center">
-  <a href="mailto:grigona4@mail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/Negibkiy"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://vk.com/negibkiy"><img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white"/></a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Negibkaya&style=flat-square)
 
 ---
 
-### 👨‍💻 Обо мне:
+### 🛠️ Профессиональное резюме
 
-Я fullstack разработчик, специализирующийся на JavaScript экосистеме. Учусь в магистратуре по специальности "Информатика и вычислительная техника" в Волгоградском государственном политехническом университете.
-
-- 🔭 Стремлюсь к постоянному профессиональному росту
-- 🌱 Изучаю инновационные подходы в разработке
-- 📞 Связаться со мной: +7 (987) 649-43-36
+Fullstack разработчик. Учусь в магистратуре по специальности "Информатика и вычислительная техника". Специализируюсь на JavaScript экосистеме, с знаниями как фронтенд, так и бэкенд технологий. Стремлюсь к постоянному профессиональному росту и применению инновационных подходов в разработке.
 
 ---
 
-### 🛠 Языки и инструменты:
+### 🧩 Ключевые навыки
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-</div>
+- **Frontend**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+- **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+- **Базы данных**: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+- **Инструменты**: ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
 ---
 
-### 🔥 Моя статистика:
+### 🎓 Образование
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Negibkaya&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Negibkaya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+**Информатика и вычислительная техника** | Волгоградский государственный политехнический университет
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+### 🌐 Проекты и ссылки
+
+- [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Negibkaya)
+- [![Vk](https://img.shields.io/badge/-Vk-4680C2?logo=vk&logoColor=white)](https://vk.com/negibkiy)
+- [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/Negibkiy)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Negibkaya&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Negibkaya&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Negibkaya&theme=radical)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
