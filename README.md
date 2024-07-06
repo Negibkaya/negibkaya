@@ -29,6 +29,7 @@ Fullstack разработчик. Учусь в магистратуре по с
 - **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 - **Базы данных**: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 - **Инструменты**: ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+- **Telegram Bots**: ![python-telegram-bot](https://img.shields.io/badge/-python--telegram--bot-2CA5E0?logo=python&logoColor=white) ![aiogram](https://img.shields.io/badge/-aiogram-2CA5E0?logo=python&logoColor=white)
 
 ---
 
