@@ -34,7 +34,7 @@ Fullstack разработчик. Учусь в магистратуре по с
 
 ### 🎓 Образование
 
-**Информатика и вычислительная техника** | Волгоградский государственный политехнический университет
+**Информатика и вычислительная техника** | Волгоградский государственный политехнический университет | Бакалавриат 2020-2024
 
 ---
 
@@ -44,9 +44,13 @@ Fullstack разработчик. Учусь в магистратуре по с
 - [![Vk](https://img.shields.io/badge/-Vk-4680C2?logo=vk&logoColor=white)](https://vk.com/negibkiy)
 - [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/Negibkiy)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Negibkaya&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Negibkaya&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Negibkaya&theme=radical)
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Negibkaya&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Negibkaya&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Negibkaya&layout=compact&theme=radical" alt="Top Langs" />
+</div>
 
 ---
 
