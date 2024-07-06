@@ -52,13 +52,9 @@
 
 ### 🔥 Моя статистика:
 
-<<<<<<< HEAD
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Negibkaya&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Negibkaya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-=======
-**Информатика и вычислительная техника** | Волгоградский государственный политехнический университет | Бакалавриат 2020-2024
->>>>>>> 0ade536f07bcd543786bd14187b603e6070211ad
 
 ---
 
