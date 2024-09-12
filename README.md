@@ -13,7 +13,7 @@
 
 ## Fullstack Разработчик
 
-📍 Волгоград, Россия | ✉️ [grigona4@mail.com](mailto:grigona4@mail.com) | 📱 +7 (987) 649-43-36
+📍 Волгоград, Россия | ✉️ [grigona4@mail.ru](mailto:grigona4@mail.ru) |
 
 ---
 
