@@ -39,10 +39,8 @@ Fullstack разработчик. Учусь в магистратуре по с
 
 ---
 
-### 🌐 Проекты и ссылки
+### 🌐 Cсылки
 
-- [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Negibkaya)
-- [![Vk](https://img.shields.io/badge/-Vk-4680C2?logo=vk&logoColor=white)](https://vk.com/negibkiy)
 - [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/Negibkiy)
 
 <div>
@@ -52,9 +50,3 @@ Fullstack разработчик. Учусь в магистратуре по с
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Negibkaya&layout=compact&theme=radical" alt="Top Langs" />
 </div>
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
-![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
