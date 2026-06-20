@@ -11,21 +11,15 @@
   <img src="https://komarev.com/ghpvc/?username=Negibkaya&style=flat-square&color=blue" alt=""/>
 </div>
 
-## Fullstack Разработчик
+## Backend Разработчик
 
 ---
 
-### 🛠️ Профессиональное резюме
+### 🧩 Навыки
 
-Fullstack разработчик. Учусь в магистратуре по специальности "Информатика и вычислительная техника". Специализируюсь на JavaScript экосистеме, с знаниями как фронтенд, так и бэкенд технологий. Стремлюсь к постоянному профессиональному росту и применению инновационных подходов в разработке.
-
----
-
-### 🧩 Ключевые навыки
-
-- **Frontend**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-- **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-- **Базы данных**: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+- **Frontend**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+- **Backend**:![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+- **Базы данных**: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 - **Инструменты**: ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 - **Telegram Bots**: ![python-telegram-bot](https://img.shields.io/badge/-python--telegram--bot-2CA5E0?logo=python&logoColor=white) ![aiogram](https://img.shields.io/badge/-aiogram-2CA5E0?logo=python&logoColor=white)
 
